@@ -7,4 +7,4 @@ Applying and comparing different supervised machine learning models on the Mushr
 - Votting Classifier
 - Random Forest
 - Support Vector Machine
-## Which model performs better
+## Comparison result
