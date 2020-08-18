@@ -1,6 +1,6 @@
 # Mushrooms_Datatset
 Applying and comparing different supervised machine learning models on the Mushrooms dataset.
-</br> -->Using Scikit-learn for Python.
+</br> ---> Using Scikit-learn for Python.
 ## Used Classifiers
 - Gaussian Naive Bayes
 - Logistic Regression
