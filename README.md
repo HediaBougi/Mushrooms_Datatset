@@ -8,3 +8,4 @@ Applying and comparing different supervised machine learning models on the Mushr
 - Random Forest
 - Support Vector Machine
 ## Comparison result
+![alt text](https://github.com/HediaBougi/Mushrooms_Datatset/blob/master/mushroomdataset.png)
