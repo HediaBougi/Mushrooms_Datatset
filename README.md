@@ -7,5 +7,6 @@ Applying and comparing different supervised machine learning models on the Mushr
 - Votting Classifier
 - Random Forest
 - Support Vector Machine
-## Comparison result
+## Comparison Result
 ![alt text](https://github.com/HediaBougi/Mushrooms_Datatset/blob/master/mushroomdataset.png)
+### Winners!! --> Random Forest and SVM with 100% accuracy
