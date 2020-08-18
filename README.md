@@ -1,3 +1,4 @@
+![alt text](https://i.imgflip.com/1u8yz6.jpg)
 # Mushrooms_Datatset
 Applying and comparing different supervised machine learning models on the Mushrooms dataset.
 </br> ---> Using Scikit-learn for Python.
